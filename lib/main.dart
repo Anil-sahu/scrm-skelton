@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Skelton App',
      
       home: HomePage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
